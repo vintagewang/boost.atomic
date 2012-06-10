@@ -1,6 +1,6 @@
 ## Overview
 
-[*Boost.Atomic] is a library that provides [^atomic]
+Boost.Atomic is a library that provides atomic
 data types and operations on these data types, as well as memory
 ordering constraints required for coordinating multiple threads through
 atomic variables. It implements the interface as defined by the C++11
